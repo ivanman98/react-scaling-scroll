@@ -1,10 +1,13 @@
 {
   "name": "react-scaling-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "",
   "license": "MIT",
-  "repository": "/react-scaling-scroll",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ivanman98/react-scaling-scroll"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
