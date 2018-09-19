@@ -1,4 +1,5 @@
 declare namespace styles {
-	const test: string
+	const app: string
+	const div: string
 }
 export default styles
