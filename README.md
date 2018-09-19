@@ -9,6 +9,9 @@
 ```bash
 npm install --save react-scaling-scroll
 ```
+## Demo
+
+![Alt Text](https://dl6.volafile.net/get/BdVeFPjCTrh7m/ezgif-5-d862d7151b.gif)
 
 ## Usage
 
