@@ -11,7 +11,7 @@ npm install --save react-scaling-scroll
 ```
 ## Demo
 
-![Alt Text](https://doc-00-40-docs.googleusercontent.com/docs/securesc/mb98l5qt66mfrtbihfe24vgishvf0v57/f4qr4d806pl56kdtu00rrq8udct9qfec/1537783200000/06975121394827855750/06975121394827855750/1fNLvcESxNltz67byl7fZusrkwopZ6iIa?e=download)
+![Alt Text](http://178.62.239.143/mp3/ezgif-5-d862d7151b.gif)
 
 ## Usage
 
