@@ -1,11 +1,7 @@
 .app {
     width: 100%;
-    border: solid 1px;
-    background-color: aquamarine;
 }
 
 .app .div {
-    border: solid 1px;
-    background-color: antiquewhite;
     height: 100vh;
 }
